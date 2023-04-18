@@ -68,9 +68,9 @@ Pruebas con Git y Github, para ver como funciona Git. He enlazado el proyecto a 
 
 16. Por último he subido cambios a este Readme.md. Como sólo eran modificaciones de un archivo y no había ningún archivo nuevo, he añadido las modificaciones al stage en un commit con:
 
-        ```
-        git commit -am "aquí el texto"
-        ```
+    ```
+     git commit -am "aquí el texto"
+    ```
 
     Después he hecho un push de los cambios.
 
